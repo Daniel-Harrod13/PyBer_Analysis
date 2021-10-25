@@ -8,12 +8,14 @@ When observing the DateFrame we can see that population of the city directly aff
 	
 ![Screen Shot 2021-10-24 at 6 55 37 PM](https://user-images.githubusercontent.com/90801814/138623322-5b837e22-b9a8-4565-96d2-5cd2e121ff84.png)
 	
+## Sumary	
+Below is the multiple line graph showing the monthly data of ride share service fares in each of three catagories of cites. As you can see there are similar and different trends between the three city types through oout these few months. Starting in late January, the suburban population sees a decrease in services and fares while rural and urban communities see an increase. Late Febuary can be seen showing increases in ride share fares from each of the city types. March is a very intersing month because there are subtile increases for the suburban community in the overall month, the Rural population sees a bigger increase in fares and services, and the urban population sees little to no increase. And finnaly the suburban population has a final jump of fares and services while rural and urban communites tail off towards the end of the month. 
 	
 	
+![Fig8](https://user-images.githubusercontent.com/90801814/138638473-ed090a6b-e04e-4082-8606-f00e764dfaa0.png)
+
 	
-	
-	
-	
-## Sumary
+
+
 
 
