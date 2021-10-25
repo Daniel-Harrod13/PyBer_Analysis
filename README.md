@@ -7,4 +7,12 @@ When observing the DateFrame we can see that population of the city directly aff
 	
 	
 	![Screen Shot 2021-10-24 at 6 55 37 PM](https://user-images.githubusercontent.com/90801814/138623322-5b837e22-b9a8-4565-96d2-5cd2e121ff84.png)
+	
+	
+	
+	
+	
+	
+## Sumary
+
 
